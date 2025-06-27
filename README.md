@@ -1,5 +1,7 @@
 # Orcaトークンスワップ計算機 - 要件定義書
 
+![image](https://github.com/user-attachments/assets/4c8916ce-e3ea-44db-a1bc-2898ed2e469a)
+
 ## 1. プロジェクト概要
 
 ### 目的
